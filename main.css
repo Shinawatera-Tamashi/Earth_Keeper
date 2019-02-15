@@ -1,3 +1,24 @@
 body {
-
+background-image: url("bg.png");
 }
+
+h1  {
+    color: #fff;
+}
+
+canvas {
+    text-align: center;
+}
+.title {
+    padding-top: 30%;
+    font-size: 50px;
+}
+.play {
+    margin-top: 15%;
+    font-size: 30px;
+}
+.title-play{
+color: #fff;
+    margin: 5%;
+}
+
